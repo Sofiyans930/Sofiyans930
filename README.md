@@ -1,77 +1,24 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO BANNER SVG                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:020612,40:0d1b3e,70:1e3a8a,100:312e81&height=220&section=header&text=Sofiyan%20Shaikh&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20MIS%20Analyst%20%7C%20Power%20BI%20Analyst%20%7C%20Business%20Analyst&descSize=14&descAlignY=62&descColor=93c5fd&animation=fadeIn)
 
-<svg width="100%" viewBox="0 0 860 240" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <radialGradient id="bg" cx="50%" cy="50%" r="70%">
-      <stop offset="0%" stop-color="#0d1b3e"/>
-      <stop offset="100%" stop-color="#020612"/>
-    </radialGradient>
-    <radialGradient id="gl1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="gl2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="860" height="240" fill="url(#bg)" rx="14"/>
-  <ellipse cx="220" cy="120" rx="200" ry="130" fill="url(#gl1)"/>
-  <ellipse cx="660" cy="110" rx="180" ry="120" fill="url(#gl2)"/>
-  <!-- Stars -->
-  <circle cx="55"  cy="28"  r="1.2" fill="#fff" opacity="0.8"/>
-  <circle cx="130" cy="52"  r="0.8" fill="#fff" opacity="0.6"/>
-  <circle cx="210" cy="18"  r="1.1" fill="#fff" opacity="0.9"/>
-  <circle cx="300" cy="38"  r="0.7" fill="#fff" opacity="0.5"/>
-  <circle cx="430" cy="14"  r="1.3" fill="#fff" opacity="0.7"/>
-  <circle cx="520" cy="32"  r="0.9" fill="#fff" opacity="0.8"/>
-  <circle cx="610" cy="22"  r="1.0" fill="#fff" opacity="0.6"/>
-  <circle cx="700" cy="44"  r="0.8" fill="#fff" opacity="0.9"/>
-  <circle cx="800" cy="20"  r="1.1" fill="#fff" opacity="0.5"/>
-  <circle cx="80"  cy="185" r="0.9" fill="#fff" opacity="0.6"/>
-  <circle cx="160" cy="205" r="1.0" fill="#fff" opacity="0.4"/>
-  <circle cx="750" cy="190" r="1.1" fill="#fff" opacity="0.7"/>
-  <circle cx="820" cy="168" r="0.8" fill="#fff" opacity="0.5"/>
-  <circle cx="560" cy="212" r="0.9" fill="#fff" opacity="0.6"/>
-  <circle cx="370" cy="220" r="0.7" fill="#fff" opacity="0.5"/>
-  <circle cx="480" cy="200" r="1.0" fill="#fff" opacity="0.4"/>
-  <!-- Orbit rings -->
-  <ellipse cx="430" cy="120" rx="175" ry="52" fill="none" stroke="#3b82f6" stroke-width="0.8" opacity="0.18"/>
-  <ellipse cx="430" cy="120" rx="230" ry="68" fill="none" stroke="#06b6d4" stroke-width="0.6" opacity="0.12"/>
-  <ellipse cx="430" cy="120" rx="125" ry="38" fill="none" stroke="#8b5cf6" stroke-width="0.8" opacity="0.18"/>
-  <!-- Planets -->
-  <circle cx="600" cy="88"  r="8"   fill="#2563eb" opacity="0.9"/>
-  <circle cx="262" cy="148" r="5.5" fill="#7c3aed" opacity="0.85"/>
-  <circle cx="635" cy="158" r="4"   fill="#0891b2" opacity="0.75"/>
-  <!-- Name -->
-  <text x="430" y="98" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="700" fill="#ffffff" letter-spacing="4">Sofiyan Shaikh</text>
-  <!-- Roles -->
-  <text x="430" y="130" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#93c5fd" letter-spacing="2.5">Data Analyst  |  MIS Analyst  |  Power BI Analyst  |  Business Analyst</text>
-  <!-- Tagline -->
-  <text x="430" y="155" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#64748b" letter-spacing="1" font-style="italic">BCA Graduate 2026  ·  Turning data into meaningful insights through SQL, Power BI, Excel &amp; Analytics</text>
-  <!-- Skill pills -->
-  <rect x="148" y="175" width="72"  height="24" rx="12" fill="#1e3a8a" opacity="0.75"/>
-  <text x="184" y="192" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#93c5fd" font-weight="700" letter-spacing="1">PYTHON</text>
-  <rect x="228" y="175" width="56"  height="24" rx="12" fill="#7f1d1d" opacity="0.75"/>
-  <text x="256" y="192" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#fca5a5" font-weight="700" letter-spacing="1">SQL</text>
-  <rect x="292" y="175" width="78"  height="24" rx="12" fill="#78350f" opacity="0.75"/>
-  <text x="331" y="192" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#fcd34d" font-weight="700" letter-spacing="1">POWER BI</text>
-  <rect x="378" y="175" width="60"  height="24" rx="12" fill="#14532d" opacity="0.75"/>
-  <text x="408" y="192" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#86efac" font-weight="700" letter-spacing="1">EXCEL</text>
-  <rect x="446" y="175" width="118" height="24" rx="12" fill="#312e81" opacity="0.75"/>
-  <text x="505" y="192" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#c4b5fd" font-weight="700" letter-spacing="1">ML / AI LEARNING</text>
-  <rect x="572" y="175" width="136" height="24" rx="12" fill="#064e3b" opacity="0.75"/>
-  <text x="640" y="192" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#6ee7b7" font-weight="700" letter-spacing="1">OPEN TO WORK</text>
-</svg>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=93C5FD&center=true&vCenter=true&multiline=true&width=700&height=60&lines=BCA+Graduate+2026+%7C+Open+to+Fresher+Analyst+Roles;Turning+data+into+meaningful+insights+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&logo=python&logoColor=4fc3f7)
+![SQL](https://img.shields.io/badge/SQL-7f1d1d?style=for-the-badge&logo=mysql&logoColor=fca5a5)
+![Power BI](https://img.shields.io/badge/Power_BI-78350f?style=for-the-badge&logo=powerbi&logoColor=fcd34d)
+![Excel](https://img.shields.io/badge/Excel-14532d?style=for-the-badge&logo=microsoftexcel&logoColor=86efac)
+![ML Learning](https://img.shields.io/badge/ML%2FAI-Learning-312e81?style=for-the-badge&logo=tensorflow&logoColor=c4b5fd)
+![Open to Work](https://img.shields.io/badge/Open%20To-Work-064e3b?style=for-the-badge&logo=handshake&logoColor=6ee7b7)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sofiyans930&color=3b82f6&style=flat-square&label=Profile+Views)
-&nbsp;&nbsp;
+&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/Sofiyans930?label=Followers&style=flat-square&color=06b6d4)](https://github.com/Sofiyans930)
 
 </div>
@@ -270,7 +217,7 @@ Automated analytics utility mapping technical skills against market requirements
 
 > Thank you so much for visiting my portfolio! Your feedback truly motivates me. 🙏
 >
-> **Please drop a ⭐ on any project you found useful — it means a lot!**
+> ⭐ **Please drop a Star on any project you found useful — it means a lot!**
 >
 > Feel free to open an **Issue** or **Discussion** on any repository to share thoughts, suggestions, or just say hello. I read every message and appreciate every bit of feedback.
 
@@ -296,8 +243,12 @@ Automated analytics utility mapping technical skills against market requirements
 
 *"Turning data into decisions — one dashboard at a time."*
 
+<br/>
+
 **Sofiyan Shaikh &nbsp;·&nbsp; BCA Graduate 2026 &nbsp;·&nbsp; Data Analyst &nbsp;·&nbsp; Open to Opportunities**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020612,40:0d1b3e,100:1e3a8a&height=80&section=footer)
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020612,40:0d1b3e,100:1e3a8a&height=100&section=footer)
 
 </div>
