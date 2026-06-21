@@ -1,25 +1,54 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:020612,40:0d1b3e,70:1e3a8a,100:312e81&height=220&section=header&text=Sofiyan%20Shaikh&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20MIS%20Analyst%20%7C%20Power%20BI%20Analyst%20%7C%20Business%20Analyst&descSize=14&descAlignY=62&descColor=93c5fd&animation=fadeIn)
+<!-- HERO BANNER - ANIMATED SPACE BACKGROUND -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:020612,20:0a1628,50:1e3a8a,80:312e81,100:0d1b3e&height=280&section=header&text=Sofiyan%20Shaikh&fontSize=55&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Data%20Analyst%20%7C%20MIS%20Analyst%20%7C%20Power%20BI%20Analyst%20%7C%20Business%20Analyst&descSize=15&descAlignY=60&descColor=93c5fd&animation=twinkling)
+
+<!-- ANIMATED TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&multiline=false&width=750&height=45&lines=👋+Welcome!+I+am+a+BCA+Graduate+%282026%29;📊+Data+Analyst+%7C+MIS+%7C+Power+BI+%7C+Business+Analyst;🚀+Open+to+Internships+%26+Fresher+Analyst+Roles;💡+Turning+Raw+Data+into+Meaningful+Insights)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=93C5FD&center=true&vCenter=true&multiline=true&width=700&height=60&lines=BCA+Graduate+2026+%7C+Open+to+Fresher+Analyst+Roles;Turning+data+into+meaningful+insights+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
+<!-- SKILL BADGES -->
 ![Python](https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&logo=python&logoColor=4fc3f7)
 ![SQL](https://img.shields.io/badge/SQL-7f1d1d?style=for-the-badge&logo=mysql&logoColor=fca5a5)
 ![Power BI](https://img.shields.io/badge/Power_BI-78350f?style=for-the-badge&logo=powerbi&logoColor=fcd34d)
 ![Excel](https://img.shields.io/badge/Excel-14532d?style=for-the-badge&logo=microsoftexcel&logoColor=86efac)
 ![ML Learning](https://img.shields.io/badge/ML%2FAI-Learning-312e81?style=for-the-badge&logo=tensorflow&logoColor=c4b5fd)
-![Open to Work](https://img.shields.io/badge/Open%20To-Work-064e3b?style=for-the-badge&logo=handshake&logoColor=6ee7b7)
+![Open to Work](https://img.shields.io/badge/🟢_Open-To_Work-064e3b?style=for-the-badge)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sofiyans930&color=3b82f6&style=flat-square&label=Profile+Views)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/Sofiyans930?label=Followers&style=flat-square&color=06b6d4)](https://github.com/Sofiyans930)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--        QUICK NAVIGATION — CLICK TO JUMP        -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🧭 Quick Navigation — Click to Jump Directly
+
+[![About Me](https://img.shields.io/badge/👤_About_Me-1e3a8a?style=for-the-badge)](#-about-me)
+&nbsp;
+[![Education](https://img.shields.io/badge/🎓_Education-0f4c81?style=for-the-badge)](#-education)
+&nbsp;
+[![Experience](https://img.shields.io/badge/💼_Experience-0f766e?style=for-the-badge)](#-internship-experience)
+&nbsp;
+[![Projects](https://img.shields.io/badge/🚀_Projects-6d28d9?style=for-the-badge)](#-featured-projects)
+&nbsp;
+[![Skills](https://img.shields.io/badge/🛠️_Skills-b45309?style=for-the-badge)](#️-technical-skills)
+&nbsp;
+[![Certifications](https://img.shields.io/badge/🏆_Certifications-166534?style=for-the-badge)](#-certifications)
+&nbsp;
+[![Connect](https://img.shields.io/badge/🔗_Connect-7f1d1d?style=for-the-badge)](#-connect-with-me)
+
+> 💡 **Scroll down for Projects?** &nbsp;→&nbsp; Click the **🚀 Projects** button above to jump straight there!
 
 </div>
 
@@ -89,6 +118,8 @@ profile = {
 ---
 
 ## 🚀 Featured Projects
+
+> 👆 **Jump here directly** from the navigation bar above anytime!
 
 <table>
 <tr>
