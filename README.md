@@ -222,10 +222,10 @@ Automated analytics utility mapping technical skills against market requirements
 ## 📊 My Data Journey
 
 ```
-2024 ──► Started learning SQL, Excel, and Python for Data Analysis
+2025 ──► Started learning SQL, Excel, and Python for Data Analysis
          ──► Completed first data cleaning and analytics projects
 
-2025 ──► Advanced Certification in Data Science & Analytics — upGrad ✅
+2026 ──► Advanced Certification in Data Science & Analytics — upGrad ✅
          ──► Data Analyst Intern @ Tap Savvy Network
          ──► Cleaned & validated 10,000+ records · Built MIS Reports & Dashboards
          ──► Team Lead · National Data & AI Hackathon · Qualified Round 2 🏅
