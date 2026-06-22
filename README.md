@@ -193,9 +193,10 @@ Automated analytics utility mapping technical skills against market requirements
 
 ## 🏆 Certifications
 
-| Certification | Issuer | Status |
+| Certification | Issuer | Verify |
 |--------------|--------|--------|
-| 🎖️ **Advanced Certification in Data Science & Analytics** | upGrad | ✅ Completed |
+| 🎖️ **Advanced Certification in Data Science & Analytics** | upGrad | [✅ View Certificate](https://upgrad.certificate.givemycertificate.com/c/9db9efcb-b99b-437c-adbb-cc06949ff288) |
+| 🏅 **National Data and AI Hackathon — Certificate of Participation** | upGrad | [✅ View Certificate](https://upgrad.certificate.givemycertificate.com/c/b6b94bde-3932-4365-96b9-d4fa7fa1c5e8) |
 
 ---
 
@@ -212,6 +213,7 @@ Automated analytics utility mapping technical skills against market requirements
 - 🏅 Served as **Team Lead** in a national-level Data & AI competition organised by upGrad.
 - ✅ Successfully **qualified for Round 2** out of hundreds of participating teams.
 - 💡 Applied data analytics and AI to solve a real-world business problem under competition conditions.
+- 📜 **[View Participation Certificate](https://upgrad.certificate.givemycertificate.com/c/b6b94bde-3932-4365-96b9-d4fa7fa1c5e8)**
 
 ---
 
