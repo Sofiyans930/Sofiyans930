@@ -1,47 +1,17 @@
 <div align="center">
 
-<!--
-═══════════════════════════════════════════════════════════
-  AUDIT LOG — REDIRECT FIXES APPLIED
-  
-  FIXED  ✅  Hero banner       → was ![](url) markdown = clickable
-                                → now <img src="..."/> = NOT clickable
-  FIXED  ✅  Typing animation  → was [![]()](url) = redirected to demolab.com
-                                → now <img src="..."/> = NOT clickable
-  FIXED  ✅  Skill badges      → were [![badge]()](shields.io) = redirected
-                                → now <img src="..."/> = NOT clickable
-  FIXED  ✅  Profile Views     → was [![](komarev)] linked = redirected
-                                → now <img src="..."/> = NOT clickable
-  FIXED  ✅  Followers badge   → was [![](github)] linked = redirected
-                                → now <img src="..."/> = NOT clickable
-  FIXED  ✅  Footer banner     → was ![](url) markdown = clickable
-                                → now <img src="..."/> = NOT clickable
-  FIXED  ✅  Internship badges → were [![badge]()](shields.io) = redirected
-                                → now <img src="..."/> = NOT clickable
-  FIXED  ✅  Hackathon badges  → were [![badge]()](shields.io) = redirected
-                                → now <img src="..."/> = NOT clickable
-  FIXED  ✅  Skills section    → were [![badge]()](shields.io) = redirected
-                                → now <img src="..."/> = NOT clickable
-
-  KEPT INTENTIONALLY CLICKABLE ✔
-  → LinkedIn profile link
-  → GitHub profile link  
-  → Instagram profile link
-  → Resume link
-  → 4 Project repository links
-  → Quick Navigation (internal anchors only — safe)
-═══════════════════════════════════════════════════════════
--->
-
-<!-- HERO BANNER — non-clickable <img> tag, no anchor wrap -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020612,20:0a1628,50:1e3a8a,80:312e81,100:0d1b3e&height=280&section=header&text=Sofiyan%20Shaikh&fontSize=55&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Data%20Analyst%20%7C%20MIS%20Analyst%20%7C%20Power%20BI%20Analyst%20%7C%20Business%20Analyst&descSize=15&descAlignY=60&descColor=93c5fd&animation=twinkling" alt="Sofiyan Shaikh — Data Analyst Portfolio Banner"/>
-
-<!-- TYPING ANIMATION — non-clickable <img> tag, no anchor wrap -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&multiline=false&width=750&height=45&lines=👋+Welcome!+BCA+Graduate+%282026%29+%7C+Open+to+Analyst+Roles;📊+Data+Analyst+%7C+MIS+%7C+Power+BI+%7C+Business+Analyst;💡+Turning+Raw+Data+into+Meaningful+Insights" alt="Typing Animation — Sofiyan Shaikh"/>
+<!-- HERO BANNER — non-clickable -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020612,20:0a1628,50:1e3a8a,80:312e81,100:0d1b3e&height=280&section=header&text=Sofiyan%20Shaikh&fontSize=55&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Data%20Analyst%20%7C%20MIS%20Analyst%20%7C%20Power%20BI%20Analyst%20%7C%20Business%20Analyst&descSize=15&descAlignY=60&descColor=93c5fd&animation=twinkling" alt="Sofiyan Shaikh Banner"/>
 
 <br/>
 
-<!-- SKILL BADGES — all non-clickable <img> tags, no anchor wraps -->
+<!-- TAGLINE — plain text, never clickable, no broken image -->
+### 👋 BCA Graduate (2026) &nbsp;·&nbsp; Open to Fresher Analyst Roles
+### 💡 Turning Raw Data into Meaningful Insights
+
+<br/>
+
+<!-- SKILL BADGES — non-clickable img tags -->
 <img src="https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&logo=python&logoColor=4fc3f7" alt="Python"/>
 <img src="https://img.shields.io/badge/SQL-7f1d1d?style=for-the-badge&logo=mysql&logoColor=fca5a5" alt="SQL"/>
 <img src="https://img.shields.io/badge/Power_BI-78350f?style=for-the-badge&logo=powerbi&logoColor=fcd34d" alt="Power BI"/>
@@ -51,25 +21,26 @@
 
 <br/><br/>
 
-<!-- PROFILE VIEWS — non-clickable <img> tag -->
-<img src="https://komarev.com/ghpvc/?username=Sofiyans930&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views Counter"/>
+<!-- PROFILE VIEWS & FOLLOWERS — non-clickable -->
+<img src="https://komarev.com/ghpvc/?username=Sofiyans930&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 &nbsp;
-<!-- GITHUB FOLLOWERS — non-clickable <img> tag -->
-<img src="https://img.shields.io/github/followers/Sofiyans930?label=Followers&style=flat-square&color=06b6d4" alt="GitHub Followers Count"/>
+<img src="https://img.shields.io/github/followers/Sofiyans930?label=Followers&style=flat-square&color=06b6d4" alt="Followers"/>
 
 </div>
 
 ---
 
-<!-- QUICK NAVIGATION — internal anchor links ONLY, no external URLs -->
+<!-- QUICK NAVIGATION — plain text links to internal anchors ONLY -->
+<!-- Clicking these scrolls within the page, never opens another website -->
 <div align="center">
 
 ### 🧭 Quick Navigation
 
-| [👤 About](#-about-me) | [🎓 Education](#-education) | [💼 Experience](#-internship-experience) | [🚀 Projects](#-featured-projects) | [🛠️ Skills](#️-technical-skills) | [🏆 Certifications](#-certifications) | [🔗 Connect](#-connect-with-me) |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+**Jump to any section — stays on this page, no external redirect**
 
-> 💡 **Want to see my projects directly?** Click [🚀 Projects](#-featured-projects) above — jumps to projects instantly!
+[👤 About Me](#-about-me) &nbsp;|&nbsp; [🎓 Education](#-education) &nbsp;|&nbsp; [💼 Experience](#-internship-experience) &nbsp;|&nbsp; [🚀 Projects](#-featured-projects) &nbsp;|&nbsp; [🛠️ Skills](#️-technical-skills) &nbsp;|&nbsp; [🏆 Certifications](#-certifications) &nbsp;|&nbsp; [🔗 Connect](#-connect-with-me)
+
+> 💡 **Want to jump straight to my projects?** Click [🚀 Projects](#-featured-projects) above — scrolls directly, no new tab!
 
 </div>
 
@@ -123,10 +94,9 @@ profile = {
 
 ### Data Analyst Intern — Tap Savvy Network
 
-<!-- INTERNSHIP BADGES — non-clickable <img> tags -->
-<img src="https://img.shields.io/badge/Role-Data_Analyst_Intern-1e3a8a?style=flat-square" alt="Role: Data Analyst Intern"/>
+<img src="https://img.shields.io/badge/Role-Data_Analyst_Intern-1e3a8a?style=flat-square" alt="Role"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Type-Internship-0f766e?style=flat-square" alt="Type: Internship"/>
+<img src="https://img.shields.io/badge/Type-Internship-0f766e?style=flat-square" alt="Type"/>
 
 - ✅ Cleaned, validated, and transformed **10,000+ records** from multiple data sources to ensure data accuracy and integrity.
 - ✅ Performed **data quality checks** to improve reporting accuracy and consistency across datasets.
@@ -138,7 +108,7 @@ profile = {
 
 ## 🚀 Featured Projects
 
-> 👆 Jumped here from navigation? Great! Here are all my analytics projects.
+> All **View Project** buttons below go directly to my GitHub repositories — nowhere else.
 
 <table>
 <tr>
@@ -151,7 +121,6 @@ End-to-end analytics pipeline investigating customer attrition. Built with dynam
 
 `Python` `SQL` `Pandas` `Data Cleaning`
 
-<!-- INTENTIONALLY CLICKABLE — direct project repository link -->
 [![View Project](https://img.shields.io/badge/View_Project-1e3a8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sofiyans930/-Bank-Customer-Churn-Analysis-SQL-)
 
 </td>
@@ -164,7 +133,6 @@ Interactive analysis processing historical athlete data and NOC regions using My
 
 `MySQL` `Power BI` `DAX` `Dashboard`
 
-<!-- INTENTIONALLY CLICKABLE — direct project repository link -->
 [![View Project](https://img.shields.io/badge/View_Project-0f766e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sofiyans930/Olympic-Data-Analysis-Using-SQL-PowerBI)
 
 </td>
@@ -179,7 +147,6 @@ Strategic corporate dashboard evaluating workforce metrics, retention rates, and
 
 `Excel` `Power BI` `DAX` `KPI Design`
 
-<!-- INTENTIONALLY CLICKABLE — direct project repository link -->
 [![View Project](https://img.shields.io/badge/View_Project-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sofiyans930/-Power-BI-HR-Analytics-Dashboard)
 
 </td>
@@ -192,7 +159,6 @@ Automated analytics utility mapping technical skills against market requirements
 
 `Python` `NLP` `Excel` `Text Analysis`
 
-<!-- INTENTIONALLY CLICKABLE — direct project repository link -->
 [![View Project](https://img.shields.io/badge/View_Project-b45309?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sofiyans930/Job-Description-Analyzer-Power-BI-Dashboard)
 
 </td>
@@ -205,7 +171,6 @@ Automated analytics utility mapping technical skills against market requirements
 
 <div align="center">
 
-<!-- SKILL BADGES — all non-clickable <img> tags, no anchor wraps -->
 <img src="https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&logo=python&logoColor=4fc3f7" alt="Python"/>
 <img src="https://img.shields.io/badge/SQL-7f1d1d?style=for-the-badge&logo=mysql&logoColor=fca5a5" alt="SQL"/>
 <img src="https://img.shields.io/badge/MySQL-0c4a6e?style=for-the-badge&logo=mysql&logoColor=7dd3fc" alt="MySQL"/>
@@ -238,12 +203,11 @@ Automated analytics utility mapping technical skills against market requirements
 
 ### National Data & AI Hackathon — upGrad
 
-<!-- HACKATHON BADGES — non-clickable <img> tags -->
-<img src="https://img.shields.io/badge/Role-Team_Lead-1e3a8a?style=flat-square" alt="Role: Team Lead"/>
+<img src="https://img.shields.io/badge/Role-Team_Lead-1e3a8a?style=flat-square" alt="Team Lead"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Result-Qualified_Round_2-166534?style=flat-square" alt="Result: Qualified Round 2"/>
+<img src="https://img.shields.io/badge/Result-Qualified_Round_2-166534?style=flat-square" alt="Qualified Round 2"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Level-National-7c3aed?style=flat-square" alt="Level: National"/>
+<img src="https://img.shields.io/badge/Level-National-7c3aed?style=flat-square" alt="National Level"/>
 
 - 🏅 Served as **Team Lead** in a national-level Data & AI competition organised by upGrad.
 - ✅ Successfully **qualified for Round 2** out of hundreds of participating teams.
@@ -287,7 +251,6 @@ Automated analytics utility mapping technical skills against market requirements
 
 <div align="center">
 
-<!-- INTENTIONALLY CLICKABLE — approved social and contact links only -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiyans930)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sofiyans930)
@@ -317,7 +280,6 @@ Automated analytics utility mapping technical skills against market requirements
 
 <br/>
 
-<!-- FOOTER BANNER — non-clickable <img> tag, no anchor wrap -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020612,40:0d1b3e,100:1e3a8a&height=100&section=footer" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020612,40:0d1b3e,100:1e3a8a&height=100&section=footer" alt="Footer"/>
 
 </div>
